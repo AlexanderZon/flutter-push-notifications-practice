@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "687955727091",
+    "project_id": "flutter-notificaciones-cfaf9",
+    "storage_bucket": "flutter-notificaciones-cfaf9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:687955727091:android:923caf1155ab49aeb59d86",
+        "android_client_info": {
+          "package_name": "com.alexanderzon.push_notifications_project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "687955727091-b97euqtbu7vlr7bnlbsv20shkdm18rpb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAyGvbDexUb9uu1HUz1PR8O67Sxm-8FQnQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "687955727091-b97euqtbu7vlr7bnlbsv20shkdm18rpb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
